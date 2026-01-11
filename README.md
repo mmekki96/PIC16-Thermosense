@@ -27,7 +27,7 @@ To ensure accuracy and stability in Proteus and real hardware:
 
 ### Formula
 The temperature is derived using:
-$$\text{Temperature (°C)} = \frac{\text{ADC\_Value} \times (5000\text{mV} / 1023)}{10\text{mV/°C}} \approx \text{ADC\_Value} \times 0.4887$$
+$$\text{Temperature (°C)} = \frac{\text{ADC Value} \times (5000\text{mV} / 1023)}{10\text{mV/°C}} \approx \text{ADC Value} \times 0.4887$$
 
 ## 🚀 How to Use
 1. Clone the repository.
@@ -37,3 +37,4 @@ $$\text{Temperature (°C)} = \frac{\text{ADC\_Value} \times (5000\text{mV} / 102
 
 ## 📝 License
 This project is licensed under the MIT License.
+![Simulation Setup]([images/simulation.png](https://github.com/mmekki96/PIC16-Thermosense/blob/8ad96f720fd534ce43a4f48b6018bb0eb644b8d8/Simulation.PNG))
