@@ -37,4 +37,4 @@ $$\text{Temperature (°C)} = \frac{\text{ADC Value} \times (5000\text{mV} / 1023
 
 ## 📝 License
 This project is licensed under the MIT License.
-![Simulation Setup]([images/simulation.png](https://github.com/mmekki96/PIC16-Thermosense/blob/8ad96f720fd534ce43a4f48b6018bb0eb644b8d8/Simulation.PNG))
+![Simulation Setup](https://github.com/mmekki96/PIC16-Thermosense/blob/8ad96f720fd534ce43a4f48b6018bb0eb644b8d8/Simulation.PNG)
