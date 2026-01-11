@@ -1,6 +1,6 @@
 # PIC16-LM35-LCD-Library
 
-A modular and professional C implementation of a digital thermometer using the **PIC16F877A** microcontroller, an **LM35** temperature sensor, and a **16x2 LCD** display.
+A modular and professional C implementation of a digital thermometer using the **PIC16F877** microcontroller, an **LM35** temperature sensor, and a **16x2 LCD** display.
 
 
 
