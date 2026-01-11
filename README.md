@@ -37,4 +37,8 @@ $$\text{Temperature (°C)} = \frac{\text{ADC Value} \times (5000\text{mV} / 1023
 
 ## 📝 License
 This project is licensed under the MIT License.
-![Simulation Setup](https://github.com/mmekki96/PIC16-Thermosense/blob/8ad96f720fd534ce43a4f48b6018bb0eb644b8d8/Simulation.PNG)
+
+## 🧪 Simulation
+Below is a preview of the project running in **Proteus**. This simulation demonstrates the real-time interaction between the LM35 sensor, the PIC16F877A microcontroller, and the 16x2 LCD display.
+
+![Simulation Screenshot](https://github.com/mmekki96/PIC16-Thermosense/blob/d32f249a81850f3803df240820362ad2e46d01ee/Simulation.PNG)
